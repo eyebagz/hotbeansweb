@@ -32,9 +32,6 @@ header img{
     (0.250, 0.460, 0.450, 0.940) both;
 }
 
-/* ===============================
-   Smaller Header on Mobile
-   =============================== */
 @media (max-width: 768px) {
 
   header {
@@ -43,7 +40,7 @@ header img{
   }
 
   header img {
-    width: 140px;      /* adjust if needed */
+    width: 140px;      
     margin-bottom: 5px;
   }
 
