@@ -47,7 +47,7 @@
     }
     if (flag1 == true && flag2 == true && flag3 == true && flag4 == true) {
         returnValue = true;
-        window.location.href("ThankYou.html");
+        window.location.href("htwthankyou.html");
     }
     else
     {
